@@ -15,5 +15,6 @@
 
 
 
-- What Langs did i posted ?
+- What Langs did i posted ? <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasfef&layout=compact)](https://github.com/dasfef/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasfef&show_icons=true&theme=radical)
