@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ... <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 - 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white">
-- 📫 How to reach me: ... <a href="https://www.instagram.com/das_fef" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"></a>
+- 📫 How to reach me: ... <a href="https://www.instagram.com/das_fef" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"></a>
 - 📧 Email: ... <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"> - mealhouse3377
 
 <br>
