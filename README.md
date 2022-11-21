@@ -4,10 +4,14 @@
 #### I'm currently learning programming and leave my lib for anyone who needs help
 #### But the most important thing is that i am the person who need help
 
+# SHORT CUT
+
 - 🔭 I’m currently working on ... <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 - 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white">
-- 📫 How to reach me: ... <a href="https://www.instagram.com/das_fef" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"></a>
-- 📧 Email: ... <img src="https://img.shields.io/badge/mealhouse3377@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white">
+
+# CONTACT
+<a href="https://www.instagram.com/das_fef" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"></a>
+<img src="https://img.shields.io/badge/mealhouse3377@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white">
 
 <br>
 <br>
