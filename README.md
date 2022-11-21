@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 - 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white">
-- 📫 How to reach me: ... <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white">
+- 📫 How to reach me: ... <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"> mealhouse3377@gmail.com
 
 
 
