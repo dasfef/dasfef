@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=TypeScript&logoColor=white"/>
