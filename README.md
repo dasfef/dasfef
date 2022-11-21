@@ -20,6 +20,6 @@
 <img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=MySql&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Qt-41CD52?style=plastic&logo=Qt&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=SQLite&logoColor=white">
 
 
-
+# STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasfef&show_icons=true&theme=cobalt)
 </div>
