@@ -21,10 +21,4 @@
 <img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=MySql&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Qt-41CD52?style=plastic&logo=Qt&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=SQLite&logoColor=white">
 
 
-<br>
-<br>
-<p>
-- What Langs did i posted ? 
-</p>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasfef&layout=compact)](https://github.com/dasfef/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasfef&show_icons=true&theme=cobalt)
