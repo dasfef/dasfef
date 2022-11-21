@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=MySql&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Qt-41CD52?style=plastic&logo=Qt&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=SQLite&logoColor=white">
