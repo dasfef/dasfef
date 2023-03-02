@@ -8,7 +8,7 @@
 
 ### 🚀 SHORT CUT
 
-- 🔭 I’m currently working on ... <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+- 🔭 I’m currently working on ... <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
 - 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white">
 
 <br>
