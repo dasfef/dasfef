@@ -21,8 +21,8 @@
 
 ### 📖 USED TO IT
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=white"><br> 
-<img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=MySql&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Qt-41CD52?style=plastic&logo=Qt&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=SQLite&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-FF7800?style=plastic&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=white"><br> 
+<img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=MySql&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Qt-41CD52?style=plastic&logo=Qt&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=SQLite&logoColor=white">
 
 <br>
 
