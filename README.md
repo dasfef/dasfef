@@ -30,7 +30,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasfef&show_icons=true&theme=great-gatsby)
 
 </div>
-
+[![dasfef's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dasfef)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2031%20mins-blue)
 
