@@ -32,4 +32,77 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2031%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 204 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 29 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+🌆 Daytime                237 commits         ████████████████░░░░░░░░░   65.29 % 
+🌃 Evening                65 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+🌙 Night                  43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   73 commits          █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Tuesday                  75 commits          █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Wednesday                68 commits          █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Thursday                 74 commits          █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Friday                   47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Saturday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             ██████████░░░░░░░░░░░░░░░   40.91 % 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/dasfef/dasfef/main/assets/bar_graph.png)
+
+
+ Last Updated on 10/04/2023 07:27:10 UTC
 <!--END_SECTION:waka-->
