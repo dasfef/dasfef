@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 # Hi there 👋
 
 ### I'm currently learning programming and leave my lib for anyone who needs help
@@ -31,6 +31,9 @@
 
 </div>
 
+<br>
+<br>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2011%20mins-blue)
 
@@ -62,5 +65,5 @@
 ```
 
 
- Last Updated on 10/04/2023 10:04:15 UTC
+ Last Updated on 10/04/2023 10:03:10 UTC
 <!--END_SECTION:waka-->
