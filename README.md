@@ -30,3 +30,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasfef&show_icons=true&theme=great-gatsby)
 
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
