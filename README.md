@@ -33,7 +33,7 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2031%20mins-blue)
-![dasfef's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dasfef)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
