@@ -1,9 +1,6 @@
 <div>
 # Hi there 👋
 
-### I'm currently learning programming and leave my lib for anyone who needs help
-### But the most important thing is that i am the person who need help
-
 <br>
 
 ### 🚀 SHORT CUT
